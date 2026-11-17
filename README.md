@@ -6,7 +6,7 @@ A two-deck DJ controller that runs in a web browser. One HTML file, no install, 
 
 **Try it:** [https://YOUR-USERNAME.github.io/YOUR-REPO/ (replace with your GitHub Pages address)](https://martinsolent.github.io/crossfade_dj_app/)
 
-**Watch the one-minute tour:** [media/crossfade-mx2-promo.mp4](crossfade-mx2-promo.mp4)
+**Watch the one-minute tour:** [crossfade-mx2-promo.mp4](crossfade-mx2-promo.mp4)
 
 > To make the video play inside this README, edit the file on github.com, drag the MP4 into the editor, and GitHub will insert a playable link.
 
